@@ -1,4 +1,4 @@
-package com.example.helloendpoints;
+package com.org.restMeaurant;
 
 public class HelloGreeting {
 

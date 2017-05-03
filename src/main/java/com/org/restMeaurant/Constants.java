@@ -1,4 +1,4 @@
-package com.example.helloendpoints;
+package com.org.restMeaurant;
 
 /**
  * Contains the client IDs and scopes for allowed clients consuming the helloworld API.

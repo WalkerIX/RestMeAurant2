@@ -1,6 +1,6 @@
 
  //[START begin]
-package com.example.helloendpoints;
+package com.org.restMeaurant;
 
 import com.google.api.server.spi.config.Api;
 import com.google.api.server.spi.config.ApiMethod;
