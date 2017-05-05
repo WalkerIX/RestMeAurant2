@@ -19,7 +19,7 @@ A "hello world" application for Google Cloud Endpoints in Java.
    your instance of this sample.
 1. Optional step: These sub steps are not required but will enable the "Authenticated
 Greeting" functionality.
-   1. Update the values in [src/main/java/com/example/helloendpoints/Constants.java](src/main/java/com/org/restMeaurant/Constants.java) to reflect the web client ID you have registered in the
+   1. Update the values in [src/main/java/com/example/helloendpoints/Constants.java](src/main/java/com/org/restMeaurant/test/test/Constants.java) to reflect the web client ID you have registered in the
 [Credentials on Developers Console for OAuth 2.0 client IDs][6].
     1. Update the value of `google.devrel.samples.helloendpoints.CLIENT_ID` in
 [src/main/webapp/js/base.js](src/main/webapp/js/base.js) to reflect the web client ID you have registered in the
