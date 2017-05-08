@@ -4,7 +4,7 @@
         <servlet-class>com.google.api.server.spi.SystemServiceServlet</servlet-class>
         <init-param>
             <param-name>services</param-name>
-            <param-value>com.org.restMeaurant.test.RestaurantsEndpoint,com.org.restMeaurant.test.Greetings</param-value>
+            <param-value>com.org.restMeaurant.test.RestaurantsEndpoint,com.org.restMeaurant.test.Greetings,com.org.restMeaurant.services.UserService</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
